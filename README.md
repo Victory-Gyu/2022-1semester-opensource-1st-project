@@ -186,6 +186,7 @@ void colonalist(colona* ptr, int* location) // 데이터 리스트 출력
 
             }
         }
+        printf("\n<충북대학교 전자정보대학교 코로나 확진자 현황>\n");
         printf("현재 전자정보대학교 코로나 확진자: %d\n", countA+countB+countC+countD+countE+countF);
         printf("현재 전기공학과의 코로나 확진자: %d\n", countA);
         printf("현재 전자공학과의 코로나 확진자: %d\n", countB);
