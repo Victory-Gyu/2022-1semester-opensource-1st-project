@@ -23,7 +23,6 @@ typedef struct
 
 void menu_print();
 void insert(colona* ptr, int* location);
-void delete_info(colona* ptr, int* location, char* name);
 void search(colona* ptr, int* location, char* name);
 void colonalist(colona* ptr, int* location);
 
